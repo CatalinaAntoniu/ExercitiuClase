@@ -1,0 +1,9 @@
+Studenti:
+Popescu Ion
+Ionescu Maria
+Profesori:
+Popa Rares
+Ionita Analisa
+Directori de liceu:
+Georgescu Mihai
+Paraschivescu Irina
